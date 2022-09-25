@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gabassi - Enterprise Account Executive at Grafana Labs
+- 👀 I’m interested in hobby web projects, CCoE, Platform Engineering, ResOps, travelling, frequent flyer stuff, cooking, reading
+- 🌱 I’m currently learning Python and some small hobby projets to help me with daily tasks
+- 💞️ I’m looking to collaborate on projects to improve observability with the Grafana ecosystem :)
+- 📫 How to reach me - gabassig@gmail.com
