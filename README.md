@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gabassi - Enterprise Account Executive at Grafana Labs
 - 👀 I’m interested in ways to develop my skills in observability and perpetually curious of how the cloud will influence the industry both technically and commercially. Outside of work I enjoy topics like fiscal policy, personal finance, golf, building basic Python applications, spearfishing, exploring remote locations of this world, gym.. 
-- 🌱 I’m currently learning Platform Engineering (or was it DevOps?), ResOps and future of SRE 
-- 💞️ I’m looking to collaborate on projects to improve observability with the Grafana ecosystem :)
+- 💞️ I’m looking to collaborate on projects on growth of anything SaaS
 - 📫 How to reach me - www.gianfrancogabassi.com and gabassig@gmail.com
